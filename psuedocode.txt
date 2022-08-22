@@ -1,0 +1,7 @@
+rock paper scissor game
+1 > getcomputerchoice function
+    > something to represent rock paper scissor(letters)
+    > using random to generate index between 0 and 2 inclusive
+2 > function that plays a single round of rock paper scissor
+    > playerSelection and ComputerSelection
+    > output - declares a win or lose or tie message
